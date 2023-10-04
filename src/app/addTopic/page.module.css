@@ -1,0 +1,48 @@
+.main{
+    padding-top: 3vh;
+    display: flex;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 2vh;
+}
+.form{
+    padding-top: 5vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 3vh;
+}
+.input{
+    border-radius: 30px;
+    outline: hidden;
+    text-align: center;
+    background-color: transparent;
+    border: 2px white solid;
+    border-radius: 3px;
+    width:60vw;
+    height: 10vh;
+    font-size: 4vw;
+}
+.des{
+    outline:hidden;
+    font-size: 4vw;
+    text-align: center;
+    background-color: transparent;
+    border: 2px white solid;
+    border-radius: 3px;
+    width:60vw;
+    height: 30vh;
+}
+.button{
+    background-color: transparent;
+    outline: hidden;
+    width: 30vw;
+    height: 6vh;
+    border: 2px solid white;
+    font-size: 3vw;
+    opacity: 0.7;
+    border-radius: 3px;
+}

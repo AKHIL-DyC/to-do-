@@ -1,0 +1,14 @@
+.topic{
+    padding-right: 2vw;
+    padding-left: 2vw;
+    display: flex;
+    width: 70vw;
+    justify-content: space-between;
+}
+.txt{
+    gap:1vh;
+}
+.logo{
+    display: flex;
+    flex-direction: row;
+}
